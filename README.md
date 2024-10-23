@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BH5107
-- 👀 I’m interested in video games
-- 🌱 I’m currently learning web programming in school
+- 👋 Hi! I’m Bailey. I'm 17 years old and from Australia
+- 👀 My current interests are video games, listening to music and going for drives!
+- 🌱 I am currently studying Maths, English, Business and a Certificate III in Information Technology :)
 
 <!---
 BH5107/BH5107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
